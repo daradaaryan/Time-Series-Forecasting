@@ -3,7 +3,7 @@
 ## Investigate the autocorrelation of time series and train ARIMA model on it
 References:
 1. https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/
-2. https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+2. https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/  
 Demo Elements:    
 1. Use sliders for the parameters like time lag, window size for moving average etc
 2. Drop down to select time series dataset
