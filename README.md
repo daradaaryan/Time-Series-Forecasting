@@ -1,4 +1,5 @@
-# ES 654 Assignment 3
+# ES 654 Assignment 3, Prof. Nipun Batra
+## Members: Aaryan Darad, Gaurav Joshi
 ## "Investigate the autocorrelation of time series and train ARIMA model on it
 References:
 1. https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/
